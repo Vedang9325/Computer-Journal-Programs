@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=student
+comment1.params=nam1\ roll1\ sub11\ sub22\ sub33\ sub44\ sub55
+comment1.target=void\ init(java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=void\ calcdisplay()
+numComments=3
